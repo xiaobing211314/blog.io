@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About me"
-description: "涉猎广泛，少有精专；思维敏捷，反应迟钝！ "
+description: "这是博客介绍和自我介绍"
 header-img: "img/green.jpg"
 ---
 
@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://img2.touxiang.cn/file/20160125/93e998bc10a9f02b91dea30d1ed6d4bf.jpg" align="center"></p>
 </center>
 
-   我是小兵，懒而笨'涉猎广泛，少有精专；思维敏捷，反应迟钝'
+   我是小兵，懒而笨。'涉猎广泛，少有精专；思维敏捷，反应迟钝'  
    
    喜欢分享,软件分享,各种资源分享
    

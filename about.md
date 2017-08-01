@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About me"
-description: "这是博客介绍和自我介绍"
+description: "云在青天水在瓶"
 header-img: "img/green.jpg"
 ---
 

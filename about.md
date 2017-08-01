@@ -29,11 +29,12 @@ header-img: "img/green.jpg"
 
 - [E安全](https://www.easyaq.com/)
 - 软件分享
-- 技术交流
+- 技术交流  
+- [酷安](https://www.coolapk.com/)
 - [卡饭](http://bbs.kafan.cn/)
 - [吾爱破解](http://www.52pojie.cn/)
 
-### 联系
+### 联系： 
 
 - [软件分享主页](http://xiaobing211314.ys168.com/)
 

@@ -4,7 +4,7 @@ header-img: "img/zhihu.jpg"
 tagline: ""  
 description: ""  
 baseurl: ""
-url: 
+
 
 # About/contact
 owner: 
@@ -13,10 +13,6 @@ owner:
   bio: ""
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
-
- 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -38,7 +34,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "小兵"
+      author: "xiaobing"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 

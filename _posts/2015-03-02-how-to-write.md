@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 title: 如何正确地练习写作
 date: 2015-3-02

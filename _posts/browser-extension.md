@@ -1,10 +1,11 @@
 ---
 layout: post
-title:	浏览器扩展介绍  
+title:  浏览器扩展介绍  
 date: 2017-8-05
 categories: blog
 tags: [浏览器]
-description:随便写了点
+description:
+随便写了点
 ---  
 1.何为浏览器扩展？
 我身边不少人都不知道浏览器扩展，可能连听都没有听过。那么什么是浏览器扩展呢？

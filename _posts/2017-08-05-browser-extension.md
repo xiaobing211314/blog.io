@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 浏览器扩展介绍  
+title:  浏览器扩展介绍  
 date: 2017-8-05
 categories: blog
 tags: [浏览器]

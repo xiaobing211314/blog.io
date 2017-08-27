@@ -2,12 +2,12 @@
 layout: page
 title: "milestone"
 description: "知之真切笃实处即是行，行之明觉精察处即是知 "
-header-img: "img/zhihu.jpg"
+header-img: "img/twitter.jpg"
 ---
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://img2.touxiang.cn/file/20160125/93e998bc10a9f02b91dea30d1ed6d4bf.jpg" align="center"></p>
 </center>
 
 

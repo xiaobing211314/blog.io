@@ -31,18 +31,18 @@ header-img: "img/green.jpg"
 
 - [E安全](https://www.easyaq.com/)
 - 软件分享
-- 技术交流  
+- 安卓逆向     
 - [酷安](https://www.coolapk.com/)
 - [卡饭](http://bbs.kafan.cn/)
 - [吾爱破解](http://www.52pojie.cn/)
 
 ### 与我相关： 
 
-- [我的软件分享主页](http://xiaobing211314.ys168.com/)      (很久未更新)
+- [我的软件分享主页](http://xiaobing211314.ys168.com/)      
 
 - [酷安@懒而笨的小兵](https://www.coolapk.com/u/849427)   
 
-- [我的choose 链接小站] (http://choose.sxl.cn)   
+- [我的choose 链接小站](http://choose.sxl.cn)   
 
 
 

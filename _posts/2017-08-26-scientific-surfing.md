@@ -57,7 +57,11 @@ XX-Net是一个免费的桌面应用程序，基于GoAgent，为被审查区域�
 #### [萤火虫](https://github.com/yinghuocho/firefly-proxy)    
 
 
-萤火虫（Firefly），用 Python 语言编写，采取 meek 工作原理。详情去github上了解
+萤火虫（Firefly），用 Python 语言编写，采取 meek 工作原理。详情去github上了解   
+  
+#### GFW.Press   
+github上开源的,貌似新兴的,我对此不太了解,但是我自己搭建过。搭建之前需要翻墙下载软件，不建议新手使用[详情链接](https://github.com/chinashiyu/gfw.press)   
+
   
 ### 安卓端   
    

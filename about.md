@@ -4,19 +4,36 @@ title: "About"
 description: "云在青天水在瓶"
 header-img: "img/green.jpg"
 ---
-<script type="text/javascript" class="autoinsert" src="js/jquery-1.2.6.min.js"></script> 
-<script src="js/snowfall.jquery.js"></script> 
-<script src="http://tpl.9iphp.com/demo/9iphp.js"></script> 
-<script>
-        $(document).snowfall('clear');
-        $(document).snowfall({
-            image: "images/huaban.png",
-			/*image: "images/snow.gif",*/
-			flakeColor:'#fff',
-            flakeCount:30,
-            minSize: 5,
-            maxSize: 13
-        });
+<script type="text/javascript" class="autoinsert" src="js/jquery-1.2.6.min.js"></script> 
+<script src="js/snowfall.jquery.js"></script> 
+<script>
+$(document).snowfall('clear');
+$(document).snowfall({
+	image: "images/huaban.png",
+	flakeCount:30,
+	minSize: 5, //最小图片
+	maxSize: 22 //最大图片
+});
+</script>
+
+        $(document).snowfall('clear');
+
+        $(document).snowfall({
+
+            image: "images/huaban.png",
+
+			/*image: "images/snow.gif",*/
+
+			flakeColor:'#fff',
+
+            flakeCount:30,
+
+            minSize: 5,
+
+            maxSize: 13
+
+        });
+
     </script>
 
 <center>

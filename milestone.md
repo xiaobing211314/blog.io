@@ -16,7 +16,9 @@ header-img: "img/twitter.jpg"
 - [小磁力bt去广告](https://t.cn/Rp4eWGi)
 - [文件闪传V1.5去广告](https://t.cn/Rp4DZOk)    
 - [Drawing Board 汉化](https://t.cn/Rp4Da99)  
-
+- [欢乐切水果V1.2内购破解版](https://t.cn/RpOXDjs)
+- [照片编辑器V2.7 去广告](https://t.cn/RpO15Je)
+- [Things  to list 汉化+去广告](https://t.cn/RpO1C5k)
  
 
 

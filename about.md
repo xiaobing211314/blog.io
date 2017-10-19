@@ -21,12 +21,9 @@ header-img: "img/green.jpg"
 写此博客为了记录自己的一点东西,就像一个云书签,怕以后忘了,想找的时候好找所以放在了网络上,同时别人问我点儿什么事的时候可以直接丢链接。
    	
 我喜欢看书，如果这个博客帮助到了你而你又想要捐助，您的捐助将用来我买书。
-
-<center>  
-   <p><img src="img/zhifubao.jpg" align="center"></p>
-  
+<center>
+    <p><img src="http://img2.touxiang.cn/file/20160125/93e998bc10a9f02b91dea30d1ed6d4bf.jpg" align="center"></p>
 </center>  
-
 ### 关注： 
 
 - [E安全](https://www.easyaq.com/)

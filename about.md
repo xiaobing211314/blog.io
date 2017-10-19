@@ -22,7 +22,7 @@ header-img: "img/green.jpg"
    	
 我喜欢看书，如果这个博客帮助到了你而你又想要捐助，您的捐助将用来我买书。
 <center>
-    <p><img src="http://img2.touxiang.cn/file/20160125/93e998bc10a9f02b91dea30d1ed6d4bf.jpg" align="center"></p>
+    <p><img src="http://ys-d.ys168.com/580755425/jTlfpGl2J754T6582MXJ/zhifubao.jpg" align="center"></p>
 </center>  
 ### 关注： 
 

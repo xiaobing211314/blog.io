@@ -45,12 +45,6 @@ header-img: "img/green.jpg"
 
 
 
-<center>
-    <p><img src="http://easyread.ph.126.net/b9Bigob7TjH6GXgBDnrj2Q==/7916967505106579244.gif" align="center"></p>
-</center>
-
-
-
 
 
 

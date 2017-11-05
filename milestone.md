@@ -19,8 +19,11 @@ header-img: "img/twitter.jpg"
 - [欢乐切水果V1.2内购破解版](https://t.cn/RpOXDjs)
 - [照片编辑器V2.7 去广告](https://t.cn/RpO15Je)
 - [Things  to list 汉化+去广告](https://t.cn/RpO1C5k)
- 
-
+- [经典玛丽内购破解]（https://pan.lanzou.com/izbjcb）
+*windows逆向*  
+### 练习作品集  
+             		
+- [自动关机.exe](https://pan.lanzou.com/i049xab) *根据Wise Auto Shutdown,进行的绿化和布局优化，双击运行。用40种杀软检测只有360报毒。*  
 
 
 

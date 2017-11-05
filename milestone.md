@@ -19,7 +19,7 @@ header-img: "img/twitter.jpg"
 - [欢乐切水果V1.2内购破解版](https://t.cn/RpOXDjs)
 - [照片编辑器V2.7 去广告](https://t.cn/RpO15Je)
 - [Things  to list 汉化+去广告](https://t.cn/RpO1C5k)
-- [经典玛丽内购破解]（https://pan.lanzou.com/izbjcb）
+- [经典玛丽内购破解](https://pan.lanzou.com/izbjcb)              
 *windows逆向*  
 ### 练习作品集  
              		

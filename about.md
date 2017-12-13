@@ -37,14 +37,13 @@ header-img: "img/green.jpg"
 
 ### 与我相关： 
 
-- [我的软件分享主页](http://xiaobing211314.ys168.com/)      
+- [~~我的软件分享主页~~](http://xiaobing211314.ys168.com/) 弃用 
+- [我的小小书签集][1]     
 - [酷安@懒而笨的小兵](https://www.coolapk.com/u/849427)   
-- [我的choose 链接小站](http://choose.sxl.cn)   
+- [~~我的choose 链接小站~~](http://choose.sxl.cn)弃用   
 - [B站@ Air复生弥撒](https://space.bilibili.com/24869294?from=search&seid=4175265645447034235#!/)（好友）
+- [吾爱@懒而笨的小兵][2]
 
 
-
-
-
-
-
+  [1]: http://flyme.tk/ok.html
+  [2]: https://www.52pojie.cn/home.php?mod=space&uid=724307

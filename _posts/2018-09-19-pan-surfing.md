@@ -2,7 +2,7 @@
 layout:	post	
 title:   度盘和科学上网           
 date: 18-09-19	
-categories: blog  
+categories:   blog   
 tags:  [度盘]  [科学上网] 
 description:   度盘和科学上网
 ---		

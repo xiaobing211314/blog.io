@@ -1,10 +1,10 @@
 ---	
 layout:	post	
-title: 浅谈windows多系统及其启动菜单
+title: 浅谈windows多系统及其启动菜单     
 date: 18-09-19	
 categories: blog
-tags: [系统]
-description:浅谈windows多系统及其启动菜单
+tags: [系统]   
+description:  浅谈windows多系统及其启动菜单
 ---		
 ### 浅谈windows多系统及其启动菜单
 

@@ -7,7 +7,7 @@ tags:  [度盘]  [科学上网]
 description:   度盘和科学上网
 ---		
 ## 再谈高速下载度盘
-&nbsp;&nbsp;&nbsp; **之前写过一篇了点击[传送门](2017/08/25/yunpan-fast/)，几个月过去了又添加了几个**    
+&nbsp;&nbsp;&nbsp; **之前写过一篇了点击[传送门](https://flyme.tk/blog/2017/08/25/yunpan-fast/)，几个月过去了又添加了几个**    
 
 -  **[速盘](https://www.speedpan.com/)**     这个是这几个月出来的速度很快我目前主要用这个。小技巧提示，下载一段时间后速度变慢单击暂停一下重新下载就好了，现在又有了黑科技加速，一般主用他就好了。   
 -  **[度盘解析](https://www.52pojie.cn/thread-704274-1-1.html)** 不用登录直接复制分享的链接即可下载，不会封号，但是调用的内部迅雷下的速度一般，我的另一个主用。   
@@ -20,7 +20,7 @@ description:   度盘和科学上网
 
 ## 再谈科学上网
 
-&nbsp;&nbsp;&nbsp;&nbsp;**之前也介绍过了几个 [传送门](2017/08/26/scientific-surfing/)现在添加几个。**  
+&nbsp;&nbsp;&nbsp;&nbsp;**之前也介绍过了几个 [传送门](https://flyme.tk/blog/2017/08/26/scientific-surfing/)现在添加几个。**  
 
 -  **V2Ray** 和酸酸乳类似也可以订阅酸酸乳的链接。他也有专门的链接。具体链接请谷歌搜索。[V2Ray配置指南](https://toutyrater.github.io/)   [Project V](https://www.v2ray.com/)  [下载地址](https://github.com/v2ray/v2ray-core/releases) 
 -  **[VPN Gate](https://www.vpngate.net/cn/)** VPN Gate 学术实验项目是一个在线服务，由日本国立筑波大学研究生院为学术研究目的运营。本研究的目的是推广 "全球分布式公共 VPN 中继服务器" 的知识。[使用方法和下载链接 点击进入](https://www.vpngate.net/cn/howto_softether.aspx)。 
@@ -29,7 +29,7 @@ description:   度盘和科学上网
 -  **其他**
 
 ~~1.  目前可用微软翻译里面输入被墙的地址，比如，google.com翻译后点击即可进入，几个月前还可以现在不行了，必须翻墙才行。~~
- 2. 安卓用户如果只是下载play应用可以用`谷歌空间和apk pure`(有时候被墙)。     
+2. 安卓用户如果只是下载play应用可以用`谷歌空间和apk pure`(有时候被墙)。     
 3. 安卓上和电脑上还有许多vpn软件，在此不多做介绍。          
     
    **目前我PC主要SSR和诺顿，安卓上主要SSR和其他谷歌play的VPN**      

@@ -1,9 +1,9 @@
 ---
 layout:	post	
 title: 度盘和科学上网           
-date: 2018-09-19    
+date: 2018-09-20    
 categories: blog   
-tags: [度盘]，[翻墙]      
+tags: [翻墙]      
 description: 度盘和科学上网 
 ---		
 

@@ -19,7 +19,6 @@ header-img: "img/green.jpg"
 ### 与我相关：   
 
 - [我的oneindex](https://thedrive.ml/)
-
 - [~~我的软件分享主页~~](http://xiaobing211314.ys168.com/) 弃用 
 - [我的小小书签集][1]     
 - [酷安@懒而笨的小兵](https://www.coolapk.com/u/849427)   
